@@ -25,6 +25,10 @@ h3 {
   display: inline-block;
 }
 
+img {
+  border-radius: 28px;
+}
+
 .headline, h1, h2, h3, li, p, a, footer {
   font-family: "Open Sans", sans-serif;
 }
